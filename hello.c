@@ -2,6 +2,8 @@
 
 int main(void)
 {
+
+    // If else statment
     // int x = 2;
     // if (x > 4)
     // {
@@ -12,6 +14,7 @@ int main(void)
     //     printf("x is not greater than 4\n");
     // }
 
+    // User Input
     char name[] = "";
 
     printf("what's your name? \n");
